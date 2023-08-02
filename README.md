@@ -29,7 +29,7 @@ All of the code is organized into folders.
 **Following is what you need for this book:**
 Beginner or intermediate designers who prefer hands-on learning will find this book useful, especially designers, woodworkers, 3D printing enthusiasts, and hobbyists who enjoy creating things, rather than experienced machinists. The basic projects are accessible without prior CAD skills, although some fundamental CAD understanding is beneficial for those interested in going further. It is highly recommended that you use a 3-button mouse for all projects to fully utilize floating pop-up menus.
 
-With the following software and hardware list you can run all code files present in the book (Chapter 1-).
+With the following software and hardware list you can run all code files present in the book (Chapter 1-15).
 ### Software and Hardware List
 | Chapter | Software required | OS required |
 | -------- | ------------------------------------ | ----------------------------------- |
@@ -44,4 +44,4 @@ With the following software and hardware list you can run all code files present
 
 ## Get to Know the Author
 **Kevin Land**
-Kevin Land is a Certified AutoCAD Instructor and has worked in a variety of disciplines throughout his 25 year career within Electrical, Landscape, Piping, Mechanical, and Architectural firms. He is skilled in a variety of software ranging from AutoCAD, Microstation, Revit, Solidworks, and Fusion 360. He is a freelance instructor who teaches at institutes like Future Media Concepts and NETCOM Learning. He currently works at Disney World as a Designer in the Ride & Show department and loves working on his favorite rides. He holds a Bachelors of Science in Applied Technology from Wilmington University and in his free time likes to play with his 11-year-old daughter, design 3D printing objects, and make low budget movies.
+is a Certified AutoCAD Instructor and has worked in a variety of disciplines throughout his 25 year career within Electrical, Landscape, Piping, Mechanical, and Architectural firms. He is skilled in a variety of software ranging from AutoCAD, Microstation, Revit, Solidworks, and Fusion 360. He is a freelance instructor who teaches at institutes like Future Media Concepts and NETCOM Learning. He currently works at Disney World as a Designer in the Ride & Show department and loves working on his favorite rides. He holds a Bachelors of Science in Applied Technology from Wilmington University and in his free time likes to play with his 11-year-old daughter, design 3D printing objects, and make low budget movies.
