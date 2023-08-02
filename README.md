@@ -9,14 +9,14 @@ This is the code repository for [Improving CAD Designs with Autodesk Fusion 360]
 ## What is this book about?
 
 This book covers the following exciting features:
-*Gain proficiency in Fusion 360 user interface, navigation, and functionality
-*Create and transform simple 2D sketches into 3D models
-*Manipulate and control parametric 2D sketches using dimensions
-*Become familiar with drafting on paper and taking measurements with calipers
-*Create a bicycle assembly part with Fusion 360
-*Use the form environment to create organic shapes
-*Render a 3D model and understand how to apply materials and lighting
-*Generate 2D assembly model drawings for documentation purposes
+* Gain proficiency in Fusion 360 user interface, navigation, and functionality
+* Create and transform simple 2D sketches into 3D models
+* Manipulate and control parametric 2D sketches using dimensions
+* Become familiar with drafting on paper and taking measurements with calipers
+* Create a bicycle assembly part with Fusion 360
+* Use the form environment to create organic shapes
+* Render a 3D model and understand how to apply materials and lighting
+* Generate 2D assembly model drawings for documentation purposes
 
 If you feel this book is for you, get your [copy](https://www.amazon.com/dp/180056449X) today!
 
