@@ -1,12 +1,13 @@
 # Improving CAD Designs with Autodesk Fusion 360
 
-<a href="https://www.packtpub.com/product/improving-cad-designs-with-autodesk-fusion-360/?utm_source=github&utm_medium=repository&utm_campaign=9781786461629"><img src="" alt="" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/product/improving-cad-designs-with-autodesk-fusion-360/?utm_source=github&utm_medium=repository&utm_campaign=9781786461629"><img src="https://content.packt.com/B16938/cover_image_small.jpg" alt="" height="256px" align="right"></a>
 
-This is the code repository for [Improving CAD Designs with Autodesk Fusion 360](https://www.packtpub.com/product/improving-cad-designs-with-autodesk-fusion-360/?utm_source=github&utm_medium=repository&utm_campaign=9781786461629), published by Packt.
+This is the code repository for [Improving CAD Designs with Autodesk Fusion 360](https://www.packtpub.com/product/improving-cad-designs-with-autodesk-fusion-360/9781800564497#_ga=2.264904652.219766444.1692002162-1601910467.1690884032), published by Packt.
 
 **A project-based guide to modelling effective parametric designs**
 
 ## What is this book about?
+Autodesk Fusion 360 has become an indispensable tool for designers, tinkerers, and engineers worldwide thanks to its versatility that allows for large-scale assemblies and smaller, quick 3D prints. If you’ve faced challenges with learning Fusion 360, this book will help you overcome them and build the confidence to design your own projects, explaining step-by-step instructions and the purpose of each tool.
 
 This book covers the following exciting features:
 * Gain proficiency in Fusion 360 user interface, navigation, and functionality
