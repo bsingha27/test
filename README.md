@@ -1,6 +1,6 @@
 # Improving CAD Designs with Autodesk Fusion 360
 
-<a href="https://www.packtpub.com/product/improving-cad-designs-with-autodesk-fusion-360/?utm_source=github&utm_medium=repository&utm_campaign=9781786461629"><img src="https://content.packt.com/B16938/cover_image_small.jpg" alt="" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/product/improving-cad-designs-with-autodesk-fusion-360/9781800564497"><img src="https://content.packt.com/B16938/cover_image_small.jpg" alt="" height="256px" align="right"></a>
 
 This is the code repository for [Improving CAD Designs with Autodesk Fusion 360](https://www.packtpub.com/product/improving-cad-designs-with-autodesk-fusion-360/9781800564497#_ga=2.264904652.219766444.1692002162-1601910467.1690884032), published by Packt.
 
